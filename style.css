@@ -40,7 +40,6 @@
 
 .colorDiv{
     background-color: rebeccapurple;
-    color: burlywood;
     height: 38%;
     width: 70%;
     margin-top: 20px;
@@ -50,6 +49,10 @@
 
     .color-section{
         width: 25%;
+    }
+
+    .colorDiv{
+        height: 36%;
     }
     
 }
